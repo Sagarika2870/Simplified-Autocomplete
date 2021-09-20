@@ -1,0 +1,14 @@
+13
+      139341	Altay, China
+      139914	Amersfoort, Netherlands
+      10927986	Delhi, India
+      504559	Hamilton, Ontario, Canada
+      500000	Hoko, South Korea
+      11624219	Karachi, Pakistan    
+      504971	Leipzig, Germany
+      497959	Makhachkala, Russia
+      497955	Newcastle, New South Wales, Australia
+      499237	Nuremberg, Germany
+      498654	Reynosa, Tamaulipas, Mexico
+      498780	Shashi, China
+      865263	Torino, Italy
