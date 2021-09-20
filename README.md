@@ -3,3 +3,4 @@ In this class project, I was tasked to implement a simplified version of an auto
 
 ## Credit
 The assignment was designed by Kevin Wayne, and adapted to C by Michael Guerzhoy
+Team member: Eve Fletcher
